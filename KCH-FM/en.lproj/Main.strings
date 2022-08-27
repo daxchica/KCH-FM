@@ -1,0 +1,84 @@
+
+/* Class = "UIViewController"; title = "MLSLeague"; ObjectID = "26q-eT-6kp"; */
+"26q-eT-6kp.title" = "MLSLeague";
+
+/* Class = "UIButton"; configuration.title = "MLS"; ObjectID = "A3u-Pz-CX4"; */
+"A3u-Pz-CX4.configuration.title" = "MLS";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A3u-Pz-CX4"; */
+"A3u-Pz-CX4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Inglaterra"; ObjectID = "B8Y-md-cAs"; */
+"B8Y-md-cAs.configuration.title" = "Inglaterra";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B8Y-md-cAs"; */
+"B8Y-md-cAs.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "mexicoLeague"; ObjectID = "Bi1-lP-BEG"; */
+"Bi1-lP-BEG.title" = "mexicoLeague";
+
+/* Class = "UIViewController"; title = "ecuadorLeague"; ObjectID = "CDw-kz-pb8"; */
+"CDw-kz-pb8.title" = "ecuadorLeague";
+
+/* Class = "UIButton"; configuration.title = "Ecuador"; ObjectID = "Hrs-1A-pCp"; */
+"Hrs-1A-pCp.configuration.title" = "Ecuador";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hrs-1A-pCp"; */
+"Hrs-1A-pCp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ligas"; ObjectID = "KH4-OE-2bm"; */
+"KH4-OE-2bm.text" = "Ligas";
+
+/* Class = "UIButton"; configuration.title = "Alemania"; ObjectID = "NlE-yi-Dny"; */
+"NlE-yi-Dny.configuration.title" = "Alemania";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NlE-yi-Dny"; */
+"NlE-yi-Dny.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tabla de Posiciones"; ObjectID = "SVU-Wf-uUr"; */
+"SVU-Wf-uUr.text" = "Tabla de Posiciones";
+
+/* Class = "UIViewController"; title = "spainLeague"; ObjectID = "Sqv-9q-OCF"; */
+"Sqv-9q-OCF.title" = "spainLeague";
+
+/* Class = "UIViewController"; title = "englandLeague"; ObjectID = "b8C-Gi-s0D"; */
+"b8C-Gi-s0D.title" = "englandLeague";
+
+/* Class = "UIViewController"; title = "germanyLeague"; ObjectID = "eMA-DJ-Kye"; */
+"eMA-DJ-Kye.title" = "germanyLeague";
+
+/* Class = "UIViewController"; title = "premierLeague"; ObjectID = "fE8-Lh-GtN"; */
+"fE8-Lh-GtN.title" = "premierLeague";
+
+/* Class = "UIButton"; configuration.title = "Mexico"; ObjectID = "gzN-vN-Kfa"; */
+"gzN-vN-Kfa.configuration.title" = "Mexico";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gzN-vN-Kfa"; */
+"gzN-vN-Kfa.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Premier"; ObjectID = "iPx-79-H5l"; */
+"iPx-79-H5l.configuration.title" = "Premier";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iPx-79-H5l"; */
+"iPx-79-H5l.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Espana"; ObjectID = "kLZ-Ed-EJQ"; */
+"kLZ-Ed-EJQ.configuration.title" = "Espana";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kLZ-Ed-EJQ"; */
+"kLZ-Ed-EJQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Italia"; ObjectID = "rwT-eE-auO"; */
+"rwT-eE-auO.configuration.title" = "Italia";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rwT-eE-auO"; */
+"rwT-eE-auO.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Play"; ObjectID = "uF0-UT-qQl"; */
+"uF0-UT-qQl.configuration.title" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uF0-UT-qQl"; */
+"uF0-UT-qQl.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "italyLeague"; ObjectID = "vYN-zO-60t"; */
+"vYN-zO-60t.title" = "italyLeague";
